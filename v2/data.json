@@ -1,0 +1,30 @@
+{
+    "version": "v2",
+    "content": [
+      {
+        "title": "泪雪网",
+        "screenshot": "https://leixue.com/logo.png",
+        "url": "https://leixue.com//",
+        "avatar": "https://i.leixue.com/avatar/8503dbf7bef936d82632ab3188effbdd?size=200",
+        "description": "泪雪网(LEIXUE.COM)是一个科技生活方式创新消费主题的科技媒体网站，致力分享推荐优秀的电子数码科技产品，站在消费者的角度体验产品，让科技改变生活。泪雪旗下网站。",
+        "keywords": "科技媒体,数码产品,智能家居,科技创新,智能生活,科技生活,购物指南,好物分享,产品推荐,科技问答,泪雪网,泪雪",
+        "group": "大佬"
+      },
+      {
+        "title": "弱密码",
+        "url": "https://ruomima.com/",
+        "avatar": "https://ruomima.com/statics/images/logo_200.png",
+        "screenshot": "https://ruomima.com/statics/images/logo.png",
+        "description": "弱密码(RuoMiMa.Com)是一个专注于网络安全及企业信息化部署的服务平台，致力于互联网信息安全研究为基础架构，给政企提供从内外网的数字安全系统的部署搭建。泪雪旗下站点。",
+        "keywords": "网络安全,数字安全,企业安全,企业网络,互联网安全,弱密码"
+      },
+      {
+        "title": "为秀网",
+        "screenshot": "https://www.forxiu.cn/wp-content/themes/forxiu/images/logo.png",
+        "url": "https://www.forxiu.cn/",
+        "avatar": "https://cravatar.cn/avatar/42a874c0e891ef7b1ee53bb72439c569?s=96&d=mm&r=g",
+        "description": "为秀网(forxiu.cn)是一个科技生活方式创新消费主题的原创科技媒体，致力分享推荐优秀的电子数码科技产品，站在消费者的角度体验产品，让科技改变生活。道壳旗下站点。",
+        "keywords": "科技媒体,数码产品,智能家居,科技创新,智能生活,科技生活,购物指南,好物分享,产品推荐,科技问答,为秀网,为秀,旅游顾问,学习分享,知识分享"
+      }
+    ]
+  }
