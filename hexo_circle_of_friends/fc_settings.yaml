@@ -36,6 +36,8 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         ["泪雪网", "https://www.leixue.com", "https://leixue.com/logo.png"],
         ["弱密码", "https://ruomima.com", "https://ruomima.com/statics/images/logo_200.png"],
+        ["垒阅网", "https://www.leiue.com", "https://leixue.com/logo.png"],
+        ["法若网", "https://www.faruo.com", "https://leixue.com/logo.png"],
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
