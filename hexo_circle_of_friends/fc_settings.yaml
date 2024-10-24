@@ -34,7 +34,8 @@ SETTINGS_FRIENDS_LINKS: {
     enable: false,
     json_api: "",
     list: [
-        ["AI悦创", "https://bornforthis.cn", "https://bornforthis.cn/aiyc.png"],
+        ["泪雪网", "https://www.leixue.com", "https://leixue.com/logo.png"],
+        ["弱密码", "https://ruomima.com", "https://ruomima.com/statics/images/logo_200.png"],
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
